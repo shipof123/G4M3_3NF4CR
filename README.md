@@ -1,3 +1,6 @@
 # G4M3_3NF4CR
 ---
-Cleverly done, Abbey Boy, but you're not supposed to be here. As a matter of fact, you're not. Get back where you belong, and forget about all this, until we meet again.
+Simple, highly customized (and easy to extend) bot.
+Nothing made here was designed for portability or sent through very much of a reveiw process,
+and as such, this code is not perfect nor is it perfectly optimized.
+Alter at your own risk.
